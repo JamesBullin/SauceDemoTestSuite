@@ -30,12 +30,12 @@ NuGet Packeges used:
 SauceDemoTestSuite contains:
 * Application Configuration Reader: Reads the website page URLs from app.config
 * A Library containing:
- * Selenium Driver Configuration
- * Website Class
- * Website Pages-object models, based on the WebPageBase class.
+     * Selenium Driver Configuration
+     * Website Class
+     * Website Pages-object models, based on the WebPageBase class.
 * A test folder containing
- * Features and tests written in Gherkin syntax
- * Test Steps which use the page-object models to access the web pages.
+     * Features and tests written in Gherkin syntax
+     * Test Steps which use the page-object models to access the web pages.
 
 ![ClassDiagram](ClassDiagram.png)
 
