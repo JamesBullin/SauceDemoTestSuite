@@ -59,4 +59,5 @@ Implement new tests:
 
 ## Retrospective
 
+* Creating frameworks to test websites is a lot of fun. I imagine it will be easier when collaborating with a business analyst and the web developer.
 * Sometimes it was necessary to use CSS selectors to find the web elements instead of IDs, because they were not provided. This proved troublesome due to copy-paste errors. Selenium was helpful to find the correct CSS tag, but errors still occurred. In future, perhaps it may be better to use a framework for CSS language support, similar to how Entity Framework provides SQL language support.
